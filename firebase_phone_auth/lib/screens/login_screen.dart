@@ -9,7 +9,7 @@ enum MobileVerificationState {
   SHOW_OTP_FORM_STATE,
 }
 
-class loginScreen extends StatefulWidget  123 456 789 10 {
+class loginScreen extends StatefulWidget  123 456{
   @override
   _loginScreenState createState() => _loginScreenState();
 }
