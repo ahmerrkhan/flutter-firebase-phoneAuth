@@ -11,7 +11,7 @@ class homeScreen extends StatefulWidget {
 class _homeScreenState extends State<homeScreen> {
   final _auth = FirebaseAuth.instance;
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext  ctx context) {
     return Scaffold(
       appBar: AppBar(
         title: Text("Welcome"),
