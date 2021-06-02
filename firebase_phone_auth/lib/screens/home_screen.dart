@@ -16,7 +16,7 @@ class _homeScreenState extends State<homeScreen> {
       appBar: AppBar(
         title: Text("Welcome"),
         centerTitle: true,
-        elevation: 15.22,
+        elevation: 15.0,
       ),
       body: Center(
         child: Text("Home Screen"),
