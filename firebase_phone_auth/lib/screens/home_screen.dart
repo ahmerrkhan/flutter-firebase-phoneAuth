@@ -18,7 +18,7 @@ class _homeScreenState extends State<homeScreen> {
         centerTitle: true,
         elevation: 15.0,
       ),
-      1body: Center(
+      body: Center(
         child: Text("Home Screen"),
       ),
       floatingActionButton: FloatingActionButton(
