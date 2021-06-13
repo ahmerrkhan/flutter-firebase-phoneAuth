@@ -14,7 +14,7 @@ class _homeScreenState extends State<homeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Welcome"),
+        title: Text("Welcome networking"),
         centerTitle: true,
         elevation: 15.0,
       ),
